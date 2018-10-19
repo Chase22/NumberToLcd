@@ -6,11 +6,9 @@ For example for width = 3 and height = 2 the digit 2 will be:
 ```
  ___
     |
-    |
- ___
+ ___|
 |
-|
- ___
+|___
 ```
 
 [source](http://codingdojo.org/kata/NumberToLCD/)
